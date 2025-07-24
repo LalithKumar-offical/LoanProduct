@@ -1,0 +1,14 @@
+C:\Users\WEL COME\OneDrive\Desktop\ADO\LoanTrial\LoanTrial\bin\Debug\net8.0\LoanTrial.exe
+C:\Users\WEL COME\OneDrive\Desktop\ADO\LoanTrial\LoanTrial\bin\Debug\net8.0\LoanTrial.deps.json
+C:\Users\WEL COME\OneDrive\Desktop\ADO\LoanTrial\LoanTrial\bin\Debug\net8.0\LoanTrial.runtimeconfig.json
+C:\Users\WEL COME\OneDrive\Desktop\ADO\LoanTrial\LoanTrial\bin\Debug\net8.0\LoanTrial.dll
+C:\Users\WEL COME\OneDrive\Desktop\ADO\LoanTrial\LoanTrial\bin\Debug\net8.0\LoanTrial.pdb
+C:\Users\WEL COME\OneDrive\Desktop\ADO\LoanTrial\LoanTrial\obj\Debug\net8.0\LoanTrial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WEL COME\OneDrive\Desktop\ADO\LoanTrial\LoanTrial\obj\Debug\net8.0\LoanTrial.AssemblyInfoInputs.cache
+C:\Users\WEL COME\OneDrive\Desktop\ADO\LoanTrial\LoanTrial\obj\Debug\net8.0\LoanTrial.AssemblyInfo.cs
+C:\Users\WEL COME\OneDrive\Desktop\ADO\LoanTrial\LoanTrial\obj\Debug\net8.0\LoanTrial.csproj.CoreCompileInputs.cache
+C:\Users\WEL COME\OneDrive\Desktop\ADO\LoanTrial\LoanTrial\obj\Debug\net8.0\LoanTrial.dll
+C:\Users\WEL COME\OneDrive\Desktop\ADO\LoanTrial\LoanTrial\obj\Debug\net8.0\refint\LoanTrial.dll
+C:\Users\WEL COME\OneDrive\Desktop\ADO\LoanTrial\LoanTrial\obj\Debug\net8.0\LoanTrial.pdb
+C:\Users\WEL COME\OneDrive\Desktop\ADO\LoanTrial\LoanTrial\obj\Debug\net8.0\LoanTrial.genruntimeconfig.cache
+C:\Users\WEL COME\OneDrive\Desktop\ADO\LoanTrial\LoanTrial\obj\Debug\net8.0\ref\LoanTrial.dll
