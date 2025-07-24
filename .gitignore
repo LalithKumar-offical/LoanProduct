@@ -1,0 +1,21 @@
+# Ignore Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.vsidx
+*.vssscc
+*.cache
+*.dbmdl
+
+# Ignore build folders
+bin/
+obj/
+Debug/
+Release/
+
+# Ignore packages
+packages/
+
+# Ignore logs and temp
+*.log
+*.tmp
